@@ -5,5 +5,47 @@
     "title": "Welcome!",
     "section": "",
     "text": "Hello! I’m Rebecca Stinson and I am a second year PhD student in Biomedical Engineering at Case Western Reserve University. My current research area of interest is on using wearable technologies and machine learning to better understand motor symptoms in Parkinsons Disease.\nOn the rest of the website you’ll find information about myself and my past work, along with some info on what I’m working on right now."
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Current Projects",
+    "section": "",
+    "text": "Monitoring of Parkinson Disease symptoms through wearable technologies has been shown to be a valuable tool in assessing symptom severity and progression. Certain symptoms like freezing of gait (FOG) are challenging to monitor using current methods. Data augmentation provides a method for improving performance of machine learning models through increasing the size and diversity of training sets. My current work is looking into different methods of data augmentation, including synthetic data generation, and evaluating their ability to improve FOG detection algorithms."
+  },
+  {
+    "objectID": "Projects.html#synthetic-data-simulating-parkinsonian-movement",
+    "href": "Projects.html#synthetic-data-simulating-parkinsonian-movement",
+    "title": "Current Projects",
+    "section": "",
+    "text": "Monitoring of Parkinson Disease symptoms through wearable technologies has been shown to be a valuable tool in assessing symptom severity and progression. Certain symptoms like freezing of gait (FOG) are challenging to monitor using current methods. Data augmentation provides a method for improving performance of machine learning models through increasing the size and diversity of training sets. My current work is looking into different methods of data augmentation, including synthetic data generation, and evaluating their ability to improve FOG detection algorithms."
+  },
+  {
+    "objectID": "Projects.html#orthostatic-hypotension-in-parkinsons-disease",
+    "href": "Projects.html#orthostatic-hypotension-in-parkinsons-disease",
+    "title": "Current Projects",
+    "section": "Orthostatic Hypotension in Parkinsons Disease",
+    "text": "Orthostatic Hypotension in Parkinsons Disease\nOrthostatic hypotension is estimated to affect 30-40% of individuals living with Parkinsons Disease. Within those individuals, 2/3rds are asymptomatic, meaning they don’t report any feelings of lightheadedness or dizziness upon standing. Despite this, asymptomatic OH has been shown to have similar levels of cognitive and physical impairment to symptomatic OH, and individuals show an increased risk of unexplained falls. In my future research, I aim to develop new technologies for easily and reliably identifying individuals with Parkinsons Disease that are experiencing orthostatic hypotension."
+  },
+  {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Get In Touch!",
+    "section": "",
+    "text": "Please send any research queries to: rjs368@case.edu\nAny other communications please send to: beccastinson01@yahoo.com"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Rebecca Stinson",
+    "section": "",
+    "text": "Education:\n\nCurrent PhD Student in Biomedical Engineering\nCase Western Reserve University\nAdvisor: Dr. Chris Pulliam\n\nBachelors of Science in Biomedical Engineering\nBucknell University ’23\n\n\n\nPast Experience\n\n\nUndergraduate Researcher - Bucknell University:\nMember of Bucknell’s Computational Neuromodulation Lab under Dr. Karlo Malaga from May, 2022 through May, 2023. Research is on using segmentation algorithms to perform patient-specific thalamic segmentations based on diffusion tensor MRI data. The goal is to develop a program that can accurately break the thalamus into sub nuclei to allow for more accurate targeting during deep brain stimulation treatment of Essential Tremor.\n\n\n\nNew Staff Supervisor - Bucknell University Teaching and Learning Center:\nCreate material and lead training meetings for 120 student staff members to strengthen facilitating and tutoring skills; focusing on areas including learning styles, metacognition, and inclusion. Supervise staff performance, training, and development efforts.\n\n\n\n\nCV"
+  },
+  {
+    "objectID": "Dysautonomia.html",
+    "href": "Dysautonomia.html",
+    "title": "Dysautonomia - What’s that?",
+    "section": "",
+    "text": "Hey thanks for reading this far! A major part of my life is dealing with a chronic illness and part of my mission as a researcher is to help spread awareness for dysautonomia. When I was in 7th grade I became sick with the flu and never really recovered. A few years later I was diagnosed with a condition called POTS (Postural Orthostatic Tachycardia Syndrome) a form of dysautonomia. Dysautonomia is an umbrella term for conditions affecting the autonomic nervous system. In the case of POTS, this manifests as fast heart rate when standing up. Everyone with POTS has different experiences, but for me it contributes to excessive fatigue, headaches, dizziness, temperature dysregulation, amongst a host of other symptoms.\nPOTS is significantly under researched and unfortunately there are currently no FDA approved medications to help manage the symptoms of POTS. I was fortunate to be able to advocate on capital hill as part of Dysautonomia International’s Advocacy Day in 2023.\nIf you are at all interested in learning more about POTS or the research that needs to be done, please check out the links I have included below.\nDysautonomia International: https://www.dysautonomiainternational.org/\nNIH NOSI: https://grants.nih.gov/grants/guide/notice-files/NOT-HL-24-018.html"
   }
 ]
