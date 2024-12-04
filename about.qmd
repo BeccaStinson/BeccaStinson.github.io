@@ -1,0 +1,44 @@
+---
+title: "Rebecca Stinson"
+image: Headshot.jpg
+about:
+  template: jolla
+---
+
+### Education:
+
+------------------------------------------------------------------------
+
+Current PhD Student in Biomedical Engineering
+
+Case Western Reserve University
+
+Advisor: Dr. Chris Pulliam
+
+------------------------------------------------------------------------
+
+Bachelors of Science in Biomedical Engineering
+
+Bucknell University '23
+
+------------------------------------------------------------------------
+
+### Past Experience
+
+------------------------------------------------------------------------
+
+#### Undergraduate Researcher - Bucknell University:
+
+Member of Bucknell's Computational Neuromodulation Lab under Dr. Karlo Malaga from May, 2022 through May, 2023. Research is on using segmentation algorithms to perform patient-specific thalamic segmentations based on diffusion tensor MRI data. The goal is to develop a program that can accurately break the thalamus into sub nuclei to allow for more accurate targeting during deep brain stimulation treatment of Essential Tremor.
+
+------------------------------------------------------------------------
+
+#### New Staff Supervisor - Bucknell University Teaching and Learning Center:
+
+Create material and lead training meetings for 120 student staff members to strengthen facilitating and tutoring skills; focusing on areas including learning styles, metacognition, and inclusion. Supervise staff performance, training, and development efforts.
+
+------------------------------------------------------------------------
+
+### CV
+
+![](Resume%20-%20Oct.%202024.pdf){width=80% height=500}

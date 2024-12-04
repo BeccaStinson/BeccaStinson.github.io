@@ -1,0 +1,11 @@
+---
+title: "Current Projects"
+---
+
+## Synthetic Data Simulating Parkinsonian Movement
+
+Monitoring of Parkinson Disease symptoms through wearable technologies has been shown to be a valuable tool in assessing symptom severity and progression. Certain symptoms like freezing of gait (FOG) are challenging to monitor using current methods. Data augmentation provides a method for improving performance of machine learning models through increasing the size and diversity of training sets. My current work is looking into different methods of data augmentation, including synthetic data generation, and evaluating their ability to improve FOG detection algorithms.
+
+## Orthostatic Hypotension in Parkinsons Disease
+
+Orthostatic hypotension is estimated to affect 30-40% of individuals living with Parkinsons Disease. Within those individuals, 2/3rds are asymptomatic, meaning they don’t report any feelings of lightheadedness or dizziness upon standing. Despite this, asymptomatic OH has been shown to have similar levels of cognitive and physical impairment to symptomatic OH, and individuals show an increased risk of unexplained falls. In my future research, I aim to develop new technologies for easily and reliably identifying individuals with Parkinsons Disease that are experiencing orthostatic hypotension.

@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Rebecca Stinson"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: Projects.qmd
+      - href: Dysautonomia.qmd
+        text: Dysautonomia
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rebecca-stinson-7656481a2
+      - icon: envelope-at
+        href: Contact.qmd
+        text: Contact
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
+editor: visual
+
