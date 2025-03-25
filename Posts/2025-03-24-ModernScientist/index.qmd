@@ -1,0 +1,16 @@
+---
+title: "Sharing is Caring"
+description: "Thoughts and Reflections on *How to Be A Modern Scientist* by Jeffrey Leek"
+author:
+  - name: Rebecca Stinson
+date: 03-24-2025
+image: ModernScientistCover.png
+---
+
+Recently, I have been planning the writing and publishing of my first scientific paper. As part of this process, decisions have to be made as to how much to share and what kind of access to provide. The book *How to be a Modern Scientist* by Jeffrey Leek touches on these decisions and stresses the importance of sharing papers as freely as possible. Leek also notes that along with the published paper, researchers should also make their data and code available and directly linked to in any published articles. This allows for better scrutiny on the reproducibility of research, as well as new analysis of data.
+
+Repositories should contain raw data and all of the necessary code so that an outside individual could reproduce the results presented. Along with the raw data should be a description of the data and its format. Any code generated during the processing or analysis of the data should be clearly annotated so others can quickly understand its function. This particularly has been a point of frustration for myself, both as the one annotating and as the one trying to understand someone else's code. Everyone tends to have their own style while writing code, for instance their particular format for variable naming. Proper and complete documentation can be crucial when implementing code written by someone else, especially as the code itself becomes more complex.
+
+My main takeaway has been that not only is it important to share our scientific findings and data with the world, it is also important to provide the necessary documentation to make reproducing those findings possible.
+
+If you're interested in reading more: *How to be a Modern Scientist* can be purchased at <http://leanpub.com/modernscientist>.
