@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "My Blog"
 listing: 
@@ -6,3 +7,13 @@ listing:
   sort: "date desc" # can also sort on more than one field
   categories: true # allows you to sort posts by assigned categories 
 ---
+=======
+---
+title: "My Blog"
+listing: 
+  contents: Posts
+  type: default # or `default` or `table`; each type has its own set of yaml options to include
+  sort: "date desc" # can also sort on more than one field
+  categories: true # allows you to sort posts by assigned categories 
+---
+>>>>>>> 70677e7ca5a21f9deb7260bfa433b653dc3a24d6
